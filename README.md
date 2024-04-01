@@ -14,3 +14,4 @@ This repository contains the model architecture and the experimental setup of th
 ![image](https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/5e799225-3a14-4d62-b688-e8c0a1101f56)
 
 ## Experiment setting
+## Evaluation

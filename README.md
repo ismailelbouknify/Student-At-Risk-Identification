@@ -3,7 +3,7 @@ This repository contains the model architecture and the experimental setup of th
 
 
 ## Overview:
-The DEWS Dropout Early Warning System repository is a critical component of the larger initiative to address the challenges of student dropout rates in the Moroccan education system. Developed as a collaboration between UM6P (Université Mohammed VI Polytechnique) and the Moroccan Ministry of Education, this project harnesses the power of artificial intelligence (AI) to identify students at risk of academic failure or dropout.
+This repository is part of the DEWS Dropout Early Warning System project, a critical component of the larger initiative to address the challenges of dropout rates in the Moroccan education system. Developed as a collaboration between UM6P (Université Mohammed VI Polytechnique) and the Moroccan Ministry of Education, this project harnesses the power of artificial intelligence (AI) to identify students at risk of academic failure or dropout.
 
 At its core, the project aims to build an AI-based system capable of early detection and intervention for students who are struggling academically or at risk of dropping out of school. Using advanced machine learning algorithms and data analytics techniques, the system aims to analyze various indicators and patterns to accurately predict potential dropout cases.
 

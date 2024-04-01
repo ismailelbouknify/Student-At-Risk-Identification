@@ -42,4 +42,11 @@ The hyperparameters for the models used in this study are summarised in the foll
 ## Evaluation
 
 ![image](https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/366deeb3-51a6-4abe-95ad-52cf7b7987b4)
+All models are evaluated using accuracy, as well as macro-averaged precision, recall, and F1 score. For each class \(c\), the formulas are:
+
+\[\text{Precision}_c = \frac{\text{True Positives}_c}{\text{True Positives}_c + \text{False Positives}_c}\]
+\[\text{Recall}_c = \frac{\text{True Positives}_c}{\text{True Positives}_c + \text{False Negatives}_c}\]
+\[\text{F1-score}_c = \frac{2 \times \text{Precision}_c \times \text{Recall}_c}{\text{Precision}_c + \text{Recall}_c}\]
+The macro-average is then calculated by averaging these metrics across all classes:
+\[\text{Macro-Average} = \frac{\sum_{c} \text{Metric}_c}{\text{Number of Classes}}\]
 

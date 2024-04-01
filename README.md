@@ -41,15 +41,11 @@ The hyperparameters for the models used in this study are summarised in the foll
 
 ## Evaluation
 
+The Figure shows the general pipeline from data splitting to model training and model evaluation.
+For multiclass classification, as shown in the Figure, the data were split, with the training dataset used to train models for specific tasks: identification of students at risk (Task 1) or categorization of students (Task 2). The test dataset was then used to evaluate the models.
+In contrast, for multitask classification, as shown in The Figure, the training dataset was used to train the model for both tasks simultaneously, and the test dataset was used to evaluate the performance of the models for each task.
+All models are evaluated using accuracy, as well as macro-averaged precision, recall, and F1 score. For each class, the formulas are:
+
 ![image](https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/366deeb3-51a6-4abe-95ad-52cf7b7987b4)
-All models are evaluated using accuracy, as well as macro-averaged precision, recall, and F1 score. For each class \(c\), the formulas are:
-
-Precision_c = True Positives_c / (True Positives_c + False Positives_c)
-Recall_c = True Positives_c / (True Positives_c + False Negatives_c)
-F1-score_c = 2 * Precision_c * Recall_c / (Precision_c + Recall_c)
-
-The macro-average is then calculated by averaging these metrics across all classes:
-
-Macro-Average = Σ_c Metric_c / Number of Classes
-
+All models are evaluated using accuracy, as well as macro-averaged precision, recall, and F1 score. The macro-average is then calculated by averaging these metrics across all classes.
 

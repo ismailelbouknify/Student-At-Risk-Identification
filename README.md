@@ -43,9 +43,7 @@ The deep learning models presented in this study were implemented using the Tens
 The hyperparameters for the models used in this study are summarised in the following Table:
 
 <img src="https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/0380e8e0-8490-4185-87c0-b0a56b61bfc9" width="300">
-<div style="text-align:center;">
-    <img src="https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/0380e8e0-8490-4185-87c0-b0a56b61bfc9" width="300">
-</div>
+
 
 ## Evaluation
 

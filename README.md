@@ -15,12 +15,12 @@ The primary goal of the DEWS project is twofold: first, to identify students at 
 
 The Multitask-ANN architecture consists of an input layer connected to a shared hidden layer of 64 ReLU-activated neurons, followed by a 25\% dropout layer. This is followed by another shared hidden layer of 32 ReLU-activated neurons with dropout applied. The final shared hidden layer contains 16 ReLU-activated neurons. A dense layer with 2 sigmoid activated neurons is added for the at-risk task, while a dense layer with 3 softmax activated neurons is included for the student categorization task. Both tasks minimize the sparse categorical cross-entropy loss.
 
-
+![image](https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/d71b57e4-a027-46d7-91bb-5219ea77a202)
 
 ### Multiclass models
 
 Multiclass models encompass a range of techniques from traditional machine learning to deep learning methods. The ANN-based model architecture includes an input layer with 64 neurons and ReLU activation, followed by a dropout layer (25\% rate), and two hidden layers with 32 and 16 neurons respectively, both activated by ReLU. The output layer comprises 2 neurons with sigmoid activation for binary classification.
-![image](https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/d71b57e4-a027-46d7-91bb-5219ea77a202)
+
 
 
 

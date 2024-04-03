@@ -32,6 +32,8 @@ Table 3 shows features of the dataset used
 Figure 2 shows the statistics for student labels by level in the dataset used in this study, by task:
 
 ![image](https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/0d123be9-a46e-47ac-85c4-1e790f7383e5)
+<img src="https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/0d123be9-a46e-47ac-85c4-1e790f7383e5" width="300">
+
 Figure 3 shows the dataset gender distribution across labels:
 
 ![image](https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/cde22912-50d8-404a-a057-f4d4c409690e)

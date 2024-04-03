@@ -56,3 +56,11 @@ All models are evaluated using accuracy, as well as macro-averaged precision, re
 
 All models are evaluated using accuracy, as well as macro-averaged precision, recall, and F1 score. The macro-average is then calculated by averaging these metrics across all classes.
 
+## Citation
+
+Please cite if you use this repository
+
+```
+
+```
+

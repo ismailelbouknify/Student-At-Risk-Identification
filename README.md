@@ -25,7 +25,7 @@ Multiclass models encompass a range of techniques from traditional machine learn
 
 
 ## Dataset:
-Table 2 shows features of the dataset used
+Table 3 shows features of the dataset used
 
 ![image](https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/5e799225-3a14-4d62-b688-e8c0a1101f56)
 

@@ -42,7 +42,7 @@ Figure 3 shows the dataset gender distribution across labels:
 The deep learning models presented in this study were implemented using the TensorFlow and Keras frameworks, while the scikit-learn library was employed for machine learning models. The experiments were conducted on a PowerEdge C6420 Server, equipped with 56 cores of Xeon Platinum 8276L running at 2.2GHz, 1545 GB of RAM, and a single Nvidia Tesla V100 with 16GB of dedicated memory. 
 The hyperparameters for the models used in this study are summarised in the following Table:
 
-<img src="https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/0380e8e0-8490-4185-87c0-b0a56b61bfc9" width="800">
+<img src="https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/0380e8e0-8490-4185-87c0-b0a56b61bfc9" width="300">
 ## Evaluation
 
 The Figure shows the general pipeline from data splitting to model training and model evaluation.

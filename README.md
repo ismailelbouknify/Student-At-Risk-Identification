@@ -25,10 +25,10 @@ Multiclass models encompass a range of techniques from traditional machine learn
 
 
 ## Dataset:
-Table 3 shows features of the dataset used
+Table 3 shows the features of the dataset used:
 
 ![image](https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/5e799225-3a14-4d62-b688-e8c0a1101f56)
-<img src="https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/5e799225-3a14-4d62-b688-e8c0a1101f56" width="800">
+
 Figure 2 shows the statistics for student labels by level in the dataset used in this study, by task:
 
 <img src="https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/0d123be9-a46e-47ac-85c4-1e790f7383e5" width="800">
@@ -42,8 +42,7 @@ Figure 3 shows the dataset gender distribution across labels:
 The deep learning models presented in this study were implemented using the TensorFlow and Keras frameworks, while the scikit-learn library was employed for machine learning models. The experiments were conducted on a PowerEdge C6420 Server, equipped with 56 cores of Xeon Platinum 8276L running at 2.2GHz, 1545 GB of RAM, and a single Nvidia Tesla V100 with 16GB of dedicated memory. 
 The hyperparameters for the models used in this study are summarised in the following Table:
 
-![image](https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/0380e8e0-8490-4185-87c0-b0a56b61bfc9)
-
+<img src="https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/0380e8e0-8490-4185-87c0-b0a56b61bfc9" width="800">
 ## Evaluation
 
 The Figure shows the general pipeline from data splitting to model training and model evaluation.

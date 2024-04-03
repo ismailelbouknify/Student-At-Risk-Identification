@@ -27,8 +27,10 @@ Multiclass models encompass a range of techniques from traditional machine learn
 ## Dataset:
 ![image](https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/5e799225-3a14-4d62-b688-e8c0a1101f56)
 
+Figure 2 shows the statistics for student labels by level in the dataset used in this study, by task:
 
 ![image](https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/0d123be9-a46e-47ac-85c4-1e790f7383e5)
+Figure 3 shows the dataset gender distribution across labels:
 
 ![image](https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/cde22912-50d8-404a-a057-f4d4c409690e)
 

@@ -49,6 +49,5 @@ All models are evaluated using accuracy, as well as macro-averaged precision, re
 
 ![image](https://github.com/ismailelbouknify/Student-At-Risk-Identification/assets/108365289/366deeb3-51a6-4abe-95ad-52cf7b7987b4)
 
-To ensure rigorous evaluation of the models, the dataset was split by randomly selecting 20\% of the data from each academic year for testing. This method ensures that student data from all academic years are included in the test dataset.
 All models are evaluated using accuracy, as well as macro-averaged precision, recall, and F1 score. The macro-average is then calculated by averaging these metrics across all classes.
 
